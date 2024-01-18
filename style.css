@@ -154,7 +154,7 @@ ul li a {
 }
 
 .hero-img-container {
-    background: url(images/inst\ alb.jpg);
+    background: url(images/Her.webp);
     background-size: cover;
     background-position: top;
     width: 300px;
@@ -208,15 +208,15 @@ ul li a {
 }
 
 .img-one {
-    background-image: url(images/inst\ i.webp);
-}
-
-.img-two {
     background-image: url(images/inst\ o.webp);
 }
 
+.img-two {
+    background-image: url(images/BEards.webp);
+}
+
 .img-three {
-    background-image: url(images/inst\ u.webp);
+    background-image: url(images/SS.webp);
 }
 
 .card-content {
